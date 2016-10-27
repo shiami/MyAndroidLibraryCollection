@@ -40,6 +40,9 @@
 * [Glide](https://github.com/bumptech/glide)
 * [Picasso](https://github.com/square/picasso)
 
+### Font Loader
+* [Calligraphy](https://github.com/chrisjenx/Calligraphy)
+
 ### Logger
 * [Orhanobut Logger](https://github.com/orhanobut/logger) (Pretty-print logger)
 * [Timber](https://github.com/JakeWharton/timber)
