@@ -51,6 +51,7 @@
 ### Debug
 * [Leakcanary](https://github.com/square/leakcanary) (Memory leak detection)
 * [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor)
+* [Pury](https://github.com/NikitaKozlov/Pury) (App Profiler)
 * [Scalpel](https://github.com/JakeWharton/scalpel) (Uncover UI layers)
 
 ### Utils
