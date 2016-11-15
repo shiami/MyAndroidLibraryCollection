@@ -43,6 +43,9 @@
 ### Font Loader
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy)
 
+### Web Loader
+* [CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)
+
 ### Logger
 * [Orhanobut Logger](https://github.com/orhanobut/logger) (Pretty-print logger)
 * [Timber](https://github.com/JakeWharton/timber)
