@@ -21,8 +21,11 @@
 ### ReactiveX
 * [RxJava](https://github.com/ReactiveX/RxJava)
 * [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+* [RxJava2Extensions](https://github.com/akarnokd/RxJava2Extensions)
+* [RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) (Convert between RxJava 1.x and 2.x reactive types)
 * [RxLifecycle](https://github.com/trello/RxLifecycle)
 * [RxBinding](https://github.com/JakeWharton/RxBinding)
+* [Retrofit 2 RxJava 2 Adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter)
 
 ### ORM
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
