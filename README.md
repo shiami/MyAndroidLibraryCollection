@@ -6,6 +6,9 @@
 ### Dependency Injection
 * [Dagger2](https://github.com/google/dagger)
 
+### Material Design Patterns
+* [BottomBar](https://github.com/roughike/BottomBar)
+
 ### Fragments
 * [FragNav](https://github.com/ncapdevi/FragNav) (Manage multiple stacks with Bottom Navigation or Navigation Drawer)
 
