@@ -6,6 +6,9 @@
 ### Dependency Injection
 * [Dagger2](https://github.com/google/dagger)
 
+### Fragments
+* [FragNav](https://github.com/ncapdevi/FragNav) (Manage multiple stacks with Bottom Navigation or Navigation Drawer)
+
 ### Networking
 * [OkHttp](https://github.com/square/okhttp)
 
