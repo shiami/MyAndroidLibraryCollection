@@ -2,6 +2,7 @@
 
 ### Architecture
 * [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/index.html) (MVVM)
+* [Android Flux](https://github.com/lgvalle/android-flux-todo-app)
 
 ### Dependency Injection
 * [Dagger2](https://github.com/google/dagger)
