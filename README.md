@@ -6,9 +6,6 @@
 ### Dependency Injection
 * [Dagger2](https://github.com/google/dagger)
 
-### Material Design Patterns
-* [BottomBar](https://github.com/roughike/BottomBar)
-
 ### Fragments
 * [FragNav](https://github.com/ncapdevi/FragNav) (Manage multiple stacks with Bottom Navigation or Navigation Drawer)
 
@@ -32,6 +29,12 @@
 * [RxLifecycle](https://github.com/trello/RxLifecycle)
 * [RxBinding](https://github.com/JakeWharton/RxBinding)
 * [Retrofit 2 RxJava 2 Adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter)
+
+### Material Design Patterns
+* [BottomBar](https://github.com/roughike/BottomBar)
+
+### Material UI Widgets
+* [MaterialBadgeTextView](https://github.com/matrixxun/MaterialBadgeTextView)
 
 ### ORM
 * [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
