@@ -69,6 +69,7 @@
 * [Android Performance Monitor](https://github.com/markzhai/AndroidPerformanceMonitor)
 * [Pury](https://github.com/NikitaKozlov/Pury) (App Profiler)
 * [Scalpel](https://github.com/JakeWharton/scalpel) (Uncover UI layers)
+* [Android Debug Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) (Debugging android databases and shared preferences)
 
 ### Utils
 * [ProcessPhoenix](https://github.com/JakeWharton/ProcessPhoenix) (Restart app)
