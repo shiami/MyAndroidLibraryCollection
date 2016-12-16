@@ -10,6 +10,9 @@
 ### Fragments
 * [FragNav](https://github.com/ncapdevi/FragNav) (Manage multiple stacks with Bottom Navigation or Navigation Drawer)
 
+### Job
+* [Android-Job](https://github.com/evernote/android-job) 
+
 ### Networking
 * [OkHttp](https://github.com/square/okhttp)
 
