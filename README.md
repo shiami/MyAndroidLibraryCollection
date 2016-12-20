@@ -63,8 +63,8 @@
 * [CustomTabsHelper](https://github.com/DreaminginCodeZH/CustomTabsHelper)
 
 ### File Picker
-*[aFileChooser](https://github.com/iPaulPro/aFileChooser)
-*[Material File Picker](https://github.com/nbsp-team/MaterialFilePicker)
+* [aFileChooser](https://github.com/iPaulPro/aFileChooser)
+* [Material File Picker](https://github.com/nbsp-team/MaterialFilePicker)
 
 ### Logger
 * [Orhanobut Logger](https://github.com/orhanobut/logger) (Pretty-print logger)
