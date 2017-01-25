@@ -48,6 +48,7 @@
 
 ### Database
 * [Realm](https://github.com/realm/realm-java)
+* [Realm FieldNames Helper](https://github.com/cmelchior/realmfieldnameshelper)
 
 ### View Binding
 * [Butterknife](https://github.com/JakeWharton/butterknife)
