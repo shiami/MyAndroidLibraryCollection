@@ -57,6 +57,10 @@
 * [Glide](https://github.com/bumptech/glide)
 * [Picasso](https://github.com/square/picasso)
 
+### Video
+* [ExoPlayer](https://github.com/google/ExoPlayer)
+* [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar)
+
 ### Font Loader
 * [Calligraphy](https://github.com/chrisjenx/Calligraphy)
 
