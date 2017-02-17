@@ -75,6 +75,9 @@
 * [aFileChooser](https://github.com/iPaulPro/aFileChooser)
 * [Material File Picker](https://github.com/nbsp-team/MaterialFilePicker)
 
+### UI Components
+* [Alerter](https://github.com/Tapadoo/Alerter) (This library aims to overcome the limitations of Toasts and Snackbars, while reducing the complexity of your layouts.)
+
 ### Logger
 * [Orhanobut Logger](https://github.com/orhanobut/logger) (Pretty-print logger)
 * [Timber](https://github.com/JakeWharton/timber)
