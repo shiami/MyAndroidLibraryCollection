@@ -50,6 +50,9 @@
 * [Realm](https://github.com/realm/realm-java)
 * [Realm FieldNames Helper](https://github.com/cmelchior/realmfieldnameshelper)
 
+### SharedPreferences
+* [Prefser](https://github.com/pwittchen/prefser)
+
 ### View Binding
 * [Butterknife](https://github.com/JakeWharton/butterknife)
 
