@@ -33,6 +33,7 @@
 * [RxLifecycle](https://github.com/trello/RxLifecycle)
 * [RxBinding](https://github.com/JakeWharton/RxBinding)
 * [Retrofit 2 RxJava 2 Adapter](https://github.com/JakeWharton/retrofit2-rxjava2-adapter)
+* [RxJavaProGuardRules](https://github.com/artem-zinnatullin/RxJavaProGuardRules) (Only RxJava 1 required)
 
 ### Material Design Patterns
 * [BottomBar](https://github.com/roughike/BottomBar)
